@@ -41,6 +41,8 @@ One of the issue currently discussed is related to smartphone. Although smartpho
 
 ### How We Can Apply physical computing to trigger human interaction
 
+As an intervention of physical computing requires physical input, it is a good way to solve the issue by letting people to participate this intervention.
 
+Input: people gather around in one place → Output: Bonfire(rich experiences in physical world, good for mental health saying that foster sense of belongings)
 
 ![IMG_7142](https://user-images.githubusercontent.com/94001384/141475485-5a51000d-f18c-46da-87ba-4b156b4ee514.jpg)
