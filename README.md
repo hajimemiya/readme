@@ -5,7 +5,7 @@
 >
 >Physical Computing intersects the range of activities often referred to in academia and industry as electrical engineering, mechatronics, robotics, computer science, and especially embedded development.
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![Physical input](https://user-images.githubusercontent.com/94001384/141471037-3e40dc1d-d366-463e-a280-33e5309d54d7.jpg)
 
 ### Physical Computing Examples & Reflections
 
@@ -14,6 +14,8 @@
 >Liǎn (脸) is an experimental mask that explores the relationship between our online personas and offline self. It responds to one's real time online emotions.
 >
 >Liǎn is heavily inspired by the Chinese face changing opera art 变脸 (biàn liǎn) and online avatars. 变脸 translates to face changing. The performer changes their face to signify a shift in emotion. This performance parallels our online behaviours; we wear many faces online and are able to change them at any moment.
+
+
 
 Analysis:
 
